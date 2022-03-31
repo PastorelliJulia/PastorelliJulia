@@ -1,16 +1,12 @@
-### Hi there 👋
+### I'm Julia Pastorelli
 
-<!--
-**PastorelliJulia/PastorelliJulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on Senai Jaguariuna
+- I’m currently learning full-stack
+- How to reach me: Juliapastorelli502@gmail.com
+- Pronouns: She/her
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/PastorelliJulia">
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=PastorelliJulia&show_icons=true&theme=dark&include_all_comsits=true&count_private=true"/>
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api/api/tpo-langs/?username=PastorelliJulia&layout=compact&langs_count=168theme=dark""/>
+</div>
