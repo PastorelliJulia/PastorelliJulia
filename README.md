@@ -1,4 +1,4 @@
-### I'm Julia Pastorelli <3
+### Hy! my name is Julia Pastorelli
 
 - I’m currently working on Senai Jaguariuna
 - I’m currently learning full-stack
