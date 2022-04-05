@@ -1,6 +1,6 @@
 ### Hy! my name is Julia Pastorelli
 
-- ⛳️ I’m currently working on Senai Jaguariuna
+- 🚩 I’m currently working on Senai Jaguariuna
 - ☕️ I’m currently learning full-stack
 - 💬 How to reach me: Juliapastorelli502@gmail.com
 - 📣 Pronouns: She/her
