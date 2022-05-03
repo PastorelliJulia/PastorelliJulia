@@ -1,10 +1,11 @@
 <h2 align="center">Hy! my name is Julia Pastorelli</h2>
 
 <div>
-  - 🚩  Studing on Senai Jaguariuna <br>
-  - ☕️  Learning full-stack <br>
-  - 📢  Pronouns: She/her <br>
-  - 💬  Reach me: Juliapastorelli502@gmail.com <br>
+  <h5> About me </h5>
+🚩  Studing on Senai Jaguariuna <br>
+☕️  Learning full-stack <br>
+📢  Pronouns: She/her <br>
+💬  Reach me: Juliapastorelli502@gmail.com <br>
 </div>
   <br></br>
 <div align="center">
