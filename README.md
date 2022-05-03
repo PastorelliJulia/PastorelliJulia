@@ -2,10 +2,10 @@
 
 <div>
   <h3> About me: </h3>
-<b> 🚩  Studing on Senai Jaguariuna <br>
-<b> ☕️  Learning full-stack <br>
-<b> 📢  Pronouns: She/her <br>
-<b> 💬  Reach me: Juliapastorelli502@gmail.com <br>
+🚩  Studing on Senai Jaguariuna <br>
+☕️  Learning full-stack <br>
+📢  Pronouns: She/her <br>
+💬  Reach me: Juliapastorelli502@gmail.com <br>
 </div>
   <br></br>
 <div align="center">
