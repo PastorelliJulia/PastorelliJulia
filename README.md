@@ -13,9 +13,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PastorelliJulia&show_icons=true&theme=dracula&include_all_comsits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PastorelliJulia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <br></br>
+  <br>
 <div align="center">
   <a href="https://linktr.ee/pastorellijulia">
-   <img height="50em" src="https://user-images.githubusercontent.com/99231270/167124234-211535a2-86d8-4ad8-95bd-cf78e8711b2a.png"/>
+   <img height="50em" src="https://user-images.githubusercontent.com/99231270/167125330-89da4936-81e3-4901-a5ae-9f7eeaa6627a.png"/>
 </div>
+
+
 
