@@ -16,7 +16,6 @@
   <br>
 <div align="center">
   <a href="https://linktr.ee/pastorellijulia">
-   <img height="50em" src="https://user-images.githubusercontent.com/99231270/167125330-89da4936-81e3-4901-a5ae-9f7eeaa6627a.png"/>
 </div>
 
 
