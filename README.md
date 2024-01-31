@@ -1,6 +1,6 @@
 <h2 align="center">Olá! Meu nome é Julia Pastorelli</h2>
 
-  <p>Sou analista de suporte e desenvolvimento de sistemas e estou cursando uma faculdade de ciências da computação atualmente. <br> Aviso: Este perfil está em processo de reorganização</p>
+  <p align="center">Sou analista de suporte e desenvolvimento de sistemas e estou cursando uma faculdade de ciências da computação atualmente. <br> Aviso: Este perfil está em processo de reorganização</p>
 <br></br>
 <div align="center">
   <a href="https://github.com/PastorelliJulia">
